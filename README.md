@@ -9,9 +9,9 @@ This is a collection of projects specified in the Coursera [Front-End Web Develo
 ## Languages - Libraries - Tools
 
 - [Git][5]
-- [NodeJS][6] and [NPM][6]
+- [NodeJS][6] and [NPM][7]
 - [React][3]
-- Any code/text editor ([atom][7]) or IDE of your choice.
+- Any code/text editor ([atom][8]) or IDE of your choice.
 
 ## Projects
 
@@ -23,7 +23,7 @@ This is a collection of projects specified in the Coursera [Front-End Web Develo
 
 ## License
 
-[The MIT License (MIT)][8]
+[The MIT License (MIT)][9]
 
 ````
 Copyright (c) 2018 Solange Umuhire Gasengayire.
@@ -55,5 +55,6 @@ SOFTWARE.
 [4]: https://www.coursera.org/learn/front-end-react
 [5]: https://git-scm.com/downloads
 [6]: https://nodejs.org/en/
-[7]: https://atom.io/
-[8]: https://opensource.org/licenses/MIT
+[7]: https://www.npmjs.com/
+[8]: https://atom.io/
+[9]: https://opensource.org/licenses/MIT
