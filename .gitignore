@@ -1,0 +1,9 @@
+# output folders
+out
+
+# various IDE projects and configs
+.idea
+*.iml
+.settings
+.classpath
+.project
