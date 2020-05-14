@@ -23,6 +23,9 @@
     "reactstrap": "^6.4.0",
     "set-value": ">=2.0.1"
   },
+  "devDependencies": {
+    "acorn": ">=5.7.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
