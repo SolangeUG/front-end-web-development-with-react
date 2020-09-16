@@ -27,7 +27,8 @@
   "devDependencies": {
     "acorn": ">=5.7.4",
     "kind-of": ">=6.0.3",
-    "node-fetch": ">=2.6.1"
+    "node-fetch": ">=2.6.1",
+    "node-forge": ">=0.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
