@@ -28,7 +28,8 @@
     "acorn": ">=5.7.4",
     "kind-of": ">=6.0.3",
     "node-fetch": ">=2.6.1",
-    "node-forge": ">=0.10.0"
+    "node-forge": ">=0.10.0",
+    "normalize-url": ">=4.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
